@@ -1,6 +1,6 @@
 # Overview
 
-Sample text-to-sql chatbot that can answer questions about Netflix movies by dynamically querying a SQLite db using Python, ChatGPT, LangGraph and LangChain's `SQLDatabaseToolkit` based on LangChain's sample [SQL Agent](https://langchain-ai.github.io/langgraph/tutorials/sql-agent/).
+Sample text-to-sql chatbot that can answer questions about Netflix movies by dynamically generating syntactically correct SQL queries using Python, ChatGPT, LangGraph and LangChain's `SQLDatabaseToolkit` based on LangChain's sample [SQL Agent](https://langchain-ai.github.io/langgraph/tutorials/sql-agent/).
 
 ![Screenshot #1](docs/screenshot1.png)
 ![Screenshot #2](docs/screenshot2.png)
